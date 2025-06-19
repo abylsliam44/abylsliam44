@@ -28,9 +28,9 @@
 ## 📚 Education
 
 - **Astana IT University** (2023–Present)  
-  *Bachelor's in Software Engineering (GPA: 3.3)*
+  *Bachelor's in Software Engineering (GPA: 3.35)*
 
-- **Lawrence Technological University** (2025)  
+- **Lawrence Technological University** (January 2025 - May 2025)  
   *Academic Mobility Program in Computer Science disciplines*
 
 ---
