@@ -31,7 +31,7 @@
   *Bachelor's in Software Engineering (GPA: 3.35)*
 
 - **Lawrence Technological University** (January 2025 - May 2025)  
-  *Academic Mobility Program in Computer Science disciplines*
+  *Academic Mobility Program in Computer Science disciplines (GPA: 3.76)* 
 
 ---
 
